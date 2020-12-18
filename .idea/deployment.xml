@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="homework" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="homework">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/homework" local="$PROJECT_DIR$" web="/homework" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
